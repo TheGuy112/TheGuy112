@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheGuy112
 - 👀 I’m interested in watching Youtube
-- 🌱 I’m currently learning about nothing
-- 💞️ I’m looking to collaborate on nothing (again)
-- 📫 How to reach me, you can't reach me
+- 🌱 I’m currently learning about how to make my site a rich site
+- 💞️ I’m still not collaborating
+- 📫 How to reach me, you can use my sites chat
 
 <!---
 TheGuy112/TheGuy112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
