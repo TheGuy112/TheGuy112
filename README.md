@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheGuy112
 - 👀 I’m interested in watching Youtube
-- 🌱 I’m currently learning about how to make my site a rich site
+- 🌱 no
 - 💞️ I’m still not collaborating
 - 📫 How to reach me, you can use my sites chat
 
